@@ -1,0 +1,41 @@
+html body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#sect1 {
+    
+}
+
+#card-top {
+    background: violet;
+}
+
+#sect2 {}
+    
+}
+
+#sect3 {
+    display: flex;
+    flex-flow: wrap;
+
+}
+
+#mini-main {
+ background:indianred;
+ border: 3px solid white;       
+}
+
+#sect4{
+    
+}
+
+#camp-mini{
+    background-color: blueviolet;
+    border: 3px solid white;
+}
+#camp-mini1{
+    background-color: yellowgreen;
+    border: 3px solid white;
+}
